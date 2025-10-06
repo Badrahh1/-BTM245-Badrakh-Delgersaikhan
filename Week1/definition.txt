@@ -1,8 +1,2 @@
-Business Process Management (BPM) is the practice...
-Employees often spend too much time searching...
-Suppliers: Customer service team, IT department
-Inputs: Request forms, customer details
-Process: Receive request → Check details → Route to department → Track progress
-Outputs: Completed service request
-Customers: End customer, service team
+Business Process Management (BPM) is the practice of analyzing, designing, and improving workflows so they are organized, efficient, and easy to repeat. It helps reduce wasted time and improve customer outcomes.
 
